@@ -1,2 +1,2 @@
 # Autotests-for-Yandex-authorization
-TestNg + Selenide
+Selenide + TestNg
